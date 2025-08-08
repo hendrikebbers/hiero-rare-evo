@@ -1,4 +1,4 @@
-package org.hiero.spring;
+package com.hiero.rareevo;
 
 import com.openelements.hiero.spring.EnableHiero;
 import org.springframework.boot.SpringApplication;

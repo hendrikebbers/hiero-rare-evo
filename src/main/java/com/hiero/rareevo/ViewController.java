@@ -1,4 +1,4 @@
-package org.hiero.spring;
+package com.hiero.rareevo;
 
 import com.hedera.hashgraph.sdk.AccountId;
 import com.hedera.hashgraph.sdk.TokenId;
