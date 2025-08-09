@@ -3,7 +3,6 @@ package com.hiero.rareevo.basic;
 import com.hedera.hashgraph.sdk.AccountId;
 import com.hedera.hashgraph.sdk.Client;
 import com.hedera.hashgraph.sdk.PrivateKey;
-import com.hedera.hashgraph.sdk.TokenCreateTransaction;
 import com.openelements.hiero.base.config.ConsensusNode;
 import com.openelements.hiero.base.config.NetworkSettings;
 import io.github.cdimascio.dotenv.Dotenv;
