@@ -1,6 +1,12 @@
 # hiero-rare-evo
 
-Hiero example for Rare Evo workshop
+[Hiero](https://hiero.org) example for Rare Evo workshop
+
+## Overview
+
+This repository contains a simple example of how to use the [Hiero SDK](https://github.com/hiero-ledger/hiero-sdk-java) to interact with any Hiero-based network.
+Hiero is a decentralized ledger technology of the [Linux Foundation Decentralized Trust](https://www.lfdecentralizedtrust.org) that provides a secure and scalable platform for building decentralized networks and applications.
+Hiero is the open source DLT codebase used to build the [Hedera network](https://hedera.com).
 
 ## How to run
 
